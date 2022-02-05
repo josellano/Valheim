@@ -7,5 +7,3 @@ git status
 git add .
 git commit -m "update"
 git push
-del ELCDP.db
-del ELCDP.fwl
